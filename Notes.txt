@@ -1,0 +1,5 @@
+/* Simple calculator app*/
+1-get user input
+2- validation
+3- do open_in_browser
+4- set result
