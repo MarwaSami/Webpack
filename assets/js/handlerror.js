@@ -1,6 +1,6 @@
 // 4- handle error
 let errorvalue=false;
- function handleerror(error,msg){
+export  function handleerror(error,msg){
    let err=document.getElementById("error")
    if(error || errorvalue){
      if(error){

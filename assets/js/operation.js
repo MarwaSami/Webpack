@@ -1,4 +1,4 @@
-function deoperation(num1,num2,op){
+export function deoperation(num1,num2,op){
     switch(op){
      case "add":
         return num1+num2;

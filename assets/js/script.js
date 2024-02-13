@@ -1,14 +1,17 @@
 /*
  End of case 1
 */
-// import {handleerror} from "./handlerror"
-
+//alert("here");
+ import {handleerror} from "./handlerror"
+ import {getUserInput} from "./getuserinput"
+ import {deoperation} from "./operation"
+ import css from "../css/style.css";
+ import  "../bootstrap-5.3.2-dist/css/bootstrap.css"
 // 2- validation 
 function validInput(num){
  return !isNaN(num)
 }
 // 3- do op
-
 
 // 5- get result
 function setuserOutput(res){

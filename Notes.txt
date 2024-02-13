@@ -3,3 +3,10 @@
 2- validation
 3- do open_in_browser
 4- set result
+/*
+html and js
+
+*/
+/* css loader*/
+
+/*html loader*/

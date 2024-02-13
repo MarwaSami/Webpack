@@ -1,5 +1,5 @@
 // 1- get user inputs and output
-function getUserInput(){
+export function getUserInput(){
     // will take user input for numbers and ops
     let Nums =document.getElementsByClassName("Num"); 
     let op=document.getElementById("op");
