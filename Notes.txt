@@ -1,12 +1,4 @@
-/* Simple calculator app*/
-1-get user input
-2- validation
-3- do open_in_browser
-4- set result
-/*
-html and js
-
-*/
-/* css loader*/
-
-/*html loader*/
+// github link
+https://github.com/MarwaSami/Webpack.git
+// lab 
+add 
